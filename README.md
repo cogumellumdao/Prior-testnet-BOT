@@ -4,7 +4,6 @@ This bot automates swapping PRIOR tokens for USDT/USDC on the Base Sepolia testn
 
 ## Features
 
-- Support for multiple wallets through environment variables
 - Automatic approval of PRIOR tokens
 - Random amount swapping (between 0.001 and 0.002 PRIOR)
 - Random token selection (USDT or USDC)
@@ -29,7 +28,7 @@ cd Prior-testnet-BOT
 2. Install dependencies:
 
 ```bash
-npm install
+npm install ethers@5 dotenv
 ```
 
 ## Usage
