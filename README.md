@@ -12,7 +12,7 @@ This bot automates swapping PRIOR tokens for USDT/USDC on the Base Sepolia testn
 
 ## Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js (v5 or higher)
 - NPM or Yarn
 - Private keys for wallets with Base Sepolia ETH and PRIOR tokens
 
