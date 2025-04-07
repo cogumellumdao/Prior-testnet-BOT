@@ -18,6 +18,11 @@ This bot automates swapping PRIOR tokens for USDT/USDC on the Base Sepolia testn
 
 ## Installation
 
+First, OPEN the TERMINAL, the famous CMD
+![image](https://github.com/user-attachments/assets/4e38885b-24a7-43b5-a547-ca3b9b71a08f)
+
+NOW just copy and PASTE 🥵
+
 1. Clone the repository:
 
 ```bash
